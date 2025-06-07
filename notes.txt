@@ -1,0 +1,8 @@
+Schema
+
+- Papers
+- Authors
+- Authors_Papers
+- Subjects
+- Papers_Subjects
+- Journals
