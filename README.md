@@ -4,6 +4,10 @@ This project scrapes research article metadata from [Nature.com](https://www.nat
 
 ---
 
+See the published [Tableau workbook](https://public.tableau.com/app/profile/daniel.monyak/viz/NaturePortfolioBreastCancer/NaturePortfolio) for results and interpretations.
+
+---
+
 ## Project Structure
 
 ```
